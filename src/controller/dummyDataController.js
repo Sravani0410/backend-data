@@ -1,5 +1,5 @@
 const data=require ("../db.json")
-const data=require ("../services.json")
+const servicedata=require ("../services.json")
 
 
 exports.getDummyData = async (req, res) => {
@@ -13,7 +13,7 @@ exports.getDummyData = async (req, res) => {
 
 exports.getDummyServiceData = async (req, res) => {
     try {
-      return res.status(200).json(data);
+      return res.status(200).json(servicedata);
     } catch (err) {
      return  res.status(500).json(err);
     }
