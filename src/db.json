@@ -1,5 +1,5 @@
 [
-    [{
+    {
         "id": 1,
         "created_on": "Fri, 7 Jun 2023 01:52 AM",
         "payer": "Sam Sinha",
@@ -488,5 +488,5 @@
           "payer_phone": "+91 9522119988",
           "services": "Agility Training",
           "scheduled": "Tue, 25 Jul 2024 11:00 AM"
-        }]
+        }
 ]
