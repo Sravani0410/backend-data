@@ -292,11 +292,11 @@
         {
           "id": 30,
           "created_on": "Mon, 3 May 2024 09:00 AM",
-          "payer": "Charlotte Clark",
-          "status": "Active",
+          "payer": "General Items",
+          "status": "Disable",
           "email": "charlotte.c@abc.com",
           "payer_phone": "9711008877",
-          "services": "Core Strength",
+          "services": "Boxing Session",
           "scheduled": "Thu, 6 May 2024 10:00 AM"
         },
         {
