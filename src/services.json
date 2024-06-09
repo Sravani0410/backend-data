@@ -20,31 +20,31 @@
   },
   {
     "id": 2,
-    "name": "National Tennis Court 2",
+    "name": "National Tennis Court",
     "type": "Appointment",
     "status": "Disable"
   },
   {
     "id": 3,
-    "name": "Cooking Classes 3",
+    "name": "Cooking Classes",
     "type": "General Items",
     "status": "Public"
   },
   {
     "id": 4,
-    "name": "Fitness Sessions 4",
+    "name": "Kettlebell Training",
     "type": "General Items",
     "status": "Private"
   },
   {
     "id": 5,
-    "name": "Tournaments 5",
+    "name": "Resistance Band Training",
     "type": "Facility",
     "status": "Disable"
   },
   {
     "id": 6,
-    "name": "Cooking Classes 6",
+    "name": "TRX Training",
     "type": "Appointment",
     "status": "Disable"
   },
@@ -56,69 +56,69 @@
   },
   {
     "id": 8,
-    "name": "Tournaments 8",
+    "name": "Tournaments",
     "type": "General Items",
     "status": "Draft"
   },
   {
     "id": 9,
-    "name": "Cooking Classes 9",
+    "name": "TRX Training",
     "type": "Membership",
     "status": "Public"
   },
   {
     "id": 10,
-    "name": "National Tennis Court 10",
+    "name": "Body Conditioning",
     "type": "Facility",
     "status": "Public"
   },
   {
     "id": 11,
-    "name": "National Tennis Court 11",
+    "name": "Body Conditioning 11",
     "type": "Membership",
     "status": "Private"
   },
   {
     "id": 12,
-    "name": "National Badminton Class 12",
+    "name": "Body Conditioning 12",
     "type": "Facility",
     "status": "Public"
   },
   {
     "id": 13,
-    "name": "National Badminton Class 13",
+    "name": "Circuit Training",
     "type": "Appointment",
     "status": "Disable"
   },
   {
     "id": 14,
-    "name": "National Badminton Class 14",
+    "name": "Circuit Training",
     "type": "Facility",
-    "status": "Private"
+    "status": "Active"
   },
   {
     "id": 15,
-    "name": "Tournaments 15",
+    "name": "Aqua Zumba",
     "type": "Facility",
-    "status": "Public"
+    "status": "Inactive"
   },
   {
     "id": 16,
-    "name": "Cooking Classes 16",
-    "type": "Class Pack",
+    "name": "Boxing Session 1",
+    "type": "Class",
     "status": "Disable"
   },
   {
     "id": 17,
-    "name": "Cooking Classes 17",
+    "name": "Boxing Session 2",
     "type": "Appointment",
     "status": "Private"
   },
   {
     "id": 18,
-    "name": "National Tennis Court 18",
+    "name": "Body Pump",
     "type": "Facility",
-    "status": "Draft"
+    "status": "Inactive"
   },
   {
     "id": 19,
@@ -128,7 +128,7 @@
   },
   {
     "id": 20,
-    "name": "National Badminton Class 20",
+    "name": "Strength Circuit",
     "type": "Appointment",
     "status": "Public"
   },
